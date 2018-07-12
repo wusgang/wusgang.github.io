@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小浪博客</title>
+  
+  <subtitle>生活就像一场戏</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-29T05:34:30.142Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>小浪</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wusgang</title>
+    <link href="http://yoursite.com/2018/03/29/wusgang/"/>
+    <id>http://yoursite.com/2018/03/29/wusgang/</id>
+    <published>2018-03-29T05:34:30.000Z</published>
+    <updated>2018-03-29T05:34:30.142Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

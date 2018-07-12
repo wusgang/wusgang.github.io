@@ -1943,7 +1943,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #79e739;
+  background: #63cf70;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3104,6 +3104,17 @@ pre .javascript .function {
     text-align: justify;
   }
 }
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+作者：Moorez,
+链接：https:,
+來源：简书,
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。,
 .site-meta {
   background: #6e3c67;
 }
