@@ -1943,7 +1943,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #45aaff;
+  background: #ffffa2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3165,4 +3165,7 @@ img:hover {
   100% {
     -moz-transform: rotateZ(-360deg);
   }
+}
+.site-meta {
+  background: #692b74;
 }
